@@ -1,0 +1,12 @@
+// Importing meyer reset
+@import 'base/reset.scss';
+
+// Importing variables and functions
+@import 'helpers/variables.scss';
+@import 'helpers/extends.scss';
+@import 'helpers/mixins.scss';
+
+// Import layout stylesheets
+@import 'layout/header.scss';
+@import 'layout/main-and-aside.scss';
+@import 'layout/footer.scss';
